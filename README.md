@@ -45,3 +45,7 @@ login system using django
 
 <img width="766" alt="image" src="https://user-images.githubusercontent.com/66414385/170848600-c830a3ed-4ea6-4622-8059-e7c8eddae34c.png">
 
+
+*if you have any problem with the running the project not able to run command like ```pipenv``` head over this site *
+```https://docs.python-guide.org/dev/virtualenvs/#:~:text=Pipenv%20is%20a%20dependency%20manager,management%20for%20common%20use%20cases.```
+
