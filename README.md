@@ -32,7 +32,7 @@ login system using django
 
   1. for that fire command 
       ``` pip install pycryptodome==3.10.1```
-  2. and not install pyrebase
+  2. and now install pyrebase
       ```pip install pyrebase4 ```
     
 8. Now run your project 
